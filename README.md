@@ -1,10 +1,10 @@
-
-
-# RL4TIS
+# Reinforcement Learning for Multi-Electrode TIS Optimization
 
 This repository provides the official implementation for the paper: **"Reinforcement Learning-Based Focality Optimization for Multi-Electrode Temporal Interference Stimulation"**.
 
-**Authors:** Xiayu Chen, Wennan Chan, Sheng Hu, Yingqiang Meng, Runze Liu, Muhammad Mohsin Pathan, Yang Ji, Xiaoxiao Wang, Bensheng Qiu, Yanming Wang
+**Authors:** Xiayu Chen, Wennan Chan, Sheng Hu, Yingqiang Meng, Runze Liu, Muhammad Mohsin Pathan, Yang Ji, Xiaoxiao Wang, Bensheng Qiu, Yanming Wang\*
+
+*Corresponding author: Bensheng Qiu, Yanming Wang*
 
 -----
 
@@ -36,4 +36,4 @@ If you find our work useful, please consider citing our paper.
 }
 ```
 
-*Note: This BibTeX entry will be updated with the official version from the journal upon final publication.*****
+*Note: This BibTeX entry will be updated with the official version from the journal upon final publication.*
